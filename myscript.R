@@ -1,0 +1,6 @@
+lte = read.csv("ltetemp.csv")
+attach(lte)
+lm.lte = lm(signal~xarfcn+fc+lat+lon+alt+rsrq+rssnr+ss+Temperature+Humidity)
+summary(lm.lte)
+par(mfrow=c(2,2))
+plot(lm.lte)
