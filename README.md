@@ -1,1 +1,5 @@
 # Temporospatial-performance-prediction
+
+
+
+Proper prediction of network performance is crucial for various application specific requirements. Application specific performance includes but not limited to signal quality, throughput, latency, reliability, capacity etc. Mobile devices frequently send various data like network quality and device capability to core for monitoring & optimization. These data can be used in a device-assisted ML framework for instant processing and take data driven decisions. Scope of data driven decisions include *Temporospatial – performance - prediction, additional device capability (like battery status, over-heating etc.) based optimization, priority based dynamic resource selection, usage pattern-based scheduling etc. The challenges of device-assisted ML include limited resource compared to the cloud for large scale scenarios, reliability issues for large online training data collection etc. But these issues can be addressed by flexible ML approaches like offline data processing, crowd sensing and many more.
