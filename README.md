@@ -2,4 +2,4 @@
 
 
 
-Proper prediction of network performance is crucial for various application specific requirements. Mobile devices frequently send various data like network quality and device capability to core for monitoring & optimization. These data can be used in a device-assisted ML framework for instant processing and take data driven decisions.
+The communication network around us is becoming more and more heterogeneous day by day.Load balancing between heterogeneous networks is one of the most significant areas in networking where application of deep learning technique is highly advantageous.
