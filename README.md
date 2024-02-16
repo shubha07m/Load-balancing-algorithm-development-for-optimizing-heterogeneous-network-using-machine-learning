@@ -10,13 +10,4 @@ https://onlinelibrary.wiley.com/doi/10.4218/etrij.2020-0188
 
 If you use this please cite this work as:
 
-@article{mukherjee2020supervised,
-  title={A supervised-learning-based spatial performance prediction framework for heterogeneous communication networks},
-  author={Mukherjee, Shubhabrata and Choi, Taesang and Islam, Md Tajul and Choi, Baek-Young and Beard, Cory and Ho Won, Seuck and Song, Sejun},
-  journal={ETRI Journal},
-  volume={42},
-  number={5},
-  pages={686--699},
-  year={2020},
-  publisher={Wiley Online Library}
-}
+Mukherjee, Shubhabrata, et al. "A supervised‐learning‐based spatial performance prediction framework for heterogeneous communication networks." ETRI Journal 42.5 (2020): 686-699
